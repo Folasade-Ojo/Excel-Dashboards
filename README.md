@@ -1,6 +1,13 @@
-This repository contain advanced and interactive dashboards created using Microsoft Excel
+## Sales Performance Dashboard
 
-Snapshot of the dashboard
+### Technologies
+* Pivot Tables
+* Pivot Charts
+* Slicer
+* VlookUp
+* Shapes
+
+**Snapshot**
 
 ![image](https://user-images.githubusercontent.com/121362860/227432643-3199179a-066b-4780-bb78-45af6ed2d4f3.png)
 
